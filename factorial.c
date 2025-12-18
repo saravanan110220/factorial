@@ -39,6 +39,7 @@ int main() {
             default:
                 printf("Invalid choice! Please try again.\n");
                 printf("new changees made")
+                printf("new changes 2")
         }
     }
 
