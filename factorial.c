@@ -41,6 +41,7 @@ int main() {
                 printf("new changees made")
                 printf("new changes 2")
                 printf("new changes 3")
+                printf("new changes 3 prem")
         }
     }
 
